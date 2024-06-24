@@ -1,0 +1,14 @@
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\bin\Debug\net6.0\AnonymousObjectExample.exe
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\bin\Debug\net6.0\AnonymousObjectExample.deps.json
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\bin\Debug\net6.0\AnonymousObjectExample.runtimeconfig.json
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\bin\Debug\net6.0\AnonymousObjectExample.dll
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\bin\Debug\net6.0\AnonymousObjectExample.pdb
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\obj\Debug\net6.0\AnonymousObjectExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\obj\Debug\net6.0\AnonymousObjectExample.AssemblyInfoInputs.cache
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\obj\Debug\net6.0\AnonymousObjectExample.AssemblyInfo.cs
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\obj\Debug\net6.0\AnonymousObjectExample.csproj.CoreCompileInputs.cache
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\obj\Debug\net6.0\AnonymousObjectExample.dll
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\obj\Debug\net6.0\refint\AnonymousObjectExample.dll
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\obj\Debug\net6.0\AnonymousObjectExample.pdb
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\obj\Debug\net6.0\AnonymousObjectExample.genruntimeconfig.cache
+D:\APIDevelopmentUdemyCourse\AnonymousObjectExample\AnonymousObjectExample\obj\Debug\net6.0\ref\AnonymousObjectExample.dll

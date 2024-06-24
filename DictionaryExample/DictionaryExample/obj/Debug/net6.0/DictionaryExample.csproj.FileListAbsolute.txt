@@ -1,0 +1,14 @@
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\bin\Debug\net6.0\DictionaryExample.exe
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\bin\Debug\net6.0\DictionaryExample.deps.json
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\bin\Debug\net6.0\DictionaryExample.runtimeconfig.json
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\bin\Debug\net6.0\DictionaryExample.dll
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\bin\Debug\net6.0\DictionaryExample.pdb
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\obj\Debug\net6.0\DictionaryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\obj\Debug\net6.0\DictionaryExample.AssemblyInfoInputs.cache
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\obj\Debug\net6.0\DictionaryExample.AssemblyInfo.cs
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\obj\Debug\net6.0\DictionaryExample.csproj.CoreCompileInputs.cache
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\obj\Debug\net6.0\DictionaryExample.dll
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\obj\Debug\net6.0\refint\DictionaryExample.dll
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\obj\Debug\net6.0\DictionaryExample.pdb
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\obj\Debug\net6.0\DictionaryExample.genruntimeconfig.cache
+D:\APIDevelopmentUdemyCourse\DictionaryExample\DictionaryExample\obj\Debug\net6.0\ref\DictionaryExample.dll

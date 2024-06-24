@@ -1,0 +1,14 @@
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\bin\Debug\net6.0\TupleEx.exe
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\bin\Debug\net6.0\TupleEx.deps.json
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\bin\Debug\net6.0\TupleEx.runtimeconfig.json
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\bin\Debug\net6.0\TupleEx.dll
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\bin\Debug\net6.0\TupleEx.pdb
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\obj\Debug\net6.0\TupleEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\obj\Debug\net6.0\TupleEx.AssemblyInfoInputs.cache
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\obj\Debug\net6.0\TupleEx.AssemblyInfo.cs
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\obj\Debug\net6.0\TupleEx.csproj.CoreCompileInputs.cache
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\obj\Debug\net6.0\TupleEx.dll
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\obj\Debug\net6.0\refint\TupleEx.dll
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\obj\Debug\net6.0\TupleEx.pdb
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\obj\Debug\net6.0\TupleEx.genruntimeconfig.cache
+D:\APIDevelopmentUdemyCourse\TupleEx\TupleEx\obj\Debug\net6.0\ref\TupleEx.dll
