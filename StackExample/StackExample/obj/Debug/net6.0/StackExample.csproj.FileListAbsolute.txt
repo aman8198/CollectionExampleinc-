@@ -1,0 +1,14 @@
+D:\CollectionExampleinc-\StackExample\StackExample\bin\Debug\net6.0\StackExample.exe
+D:\CollectionExampleinc-\StackExample\StackExample\bin\Debug\net6.0\StackExample.deps.json
+D:\CollectionExampleinc-\StackExample\StackExample\bin\Debug\net6.0\StackExample.runtimeconfig.json
+D:\CollectionExampleinc-\StackExample\StackExample\bin\Debug\net6.0\StackExample.dll
+D:\CollectionExampleinc-\StackExample\StackExample\bin\Debug\net6.0\StackExample.pdb
+D:\CollectionExampleinc-\StackExample\StackExample\obj\Debug\net6.0\StackExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\CollectionExampleinc-\StackExample\StackExample\obj\Debug\net6.0\StackExample.AssemblyInfoInputs.cache
+D:\CollectionExampleinc-\StackExample\StackExample\obj\Debug\net6.0\StackExample.AssemblyInfo.cs
+D:\CollectionExampleinc-\StackExample\StackExample\obj\Debug\net6.0\StackExample.csproj.CoreCompileInputs.cache
+D:\CollectionExampleinc-\StackExample\StackExample\obj\Debug\net6.0\StackExample.dll
+D:\CollectionExampleinc-\StackExample\StackExample\obj\Debug\net6.0\refint\StackExample.dll
+D:\CollectionExampleinc-\StackExample\StackExample\obj\Debug\net6.0\StackExample.pdb
+D:\CollectionExampleinc-\StackExample\StackExample\obj\Debug\net6.0\StackExample.genruntimeconfig.cache
+D:\CollectionExampleinc-\StackExample\StackExample\obj\Debug\net6.0\ref\StackExample.dll
